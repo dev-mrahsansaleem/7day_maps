@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<persistentplayerdata>
+  <player platform="EOS" userid="0002749101d74dbfaebd62cd9649d2be" nativeplatform="Steam" nativeuserid="76561199562384719" playername="Jerry" lastlogin="2024-08-22 22:20:21" position="-691,35,190">
+    <acl platform="EOS" userid="0002e60eeb204b72b3cd64d390092143" />
+    <questpositions>
+      <position id="-324311994" positiondatatype="0" pos="-667,36,175" />
+      <position id="-324311994" positiondatatype="2" pos="192,32,-244" />
+      <position id="-122879647" positiondatatype="1" pos="-541,43,518" />
+      <position id="-122879647" positiondatatype="0" pos="-667,36,175" />
+    </questpositions>
+  </player>
+  <player platform="EOS" userid="0002e60eeb204b72b3cd64d390092143" nativeplatform="Steam" nativeuserid="76561198382116703" playername="Miss_Me" lastlogin="2024-08-22 22:20:21" position="-687,35,238">
+    <acl platform="EOS" userid="0002749101d74dbfaebd62cd9649d2be" />
+    <questpositions>
+      <position id="-122879647" positiondatatype="4" pos="-541,43,518" />
+      <position id="-122879647" positiondatatype="0" pos="-667,36,175" />
+      <position id="-122879647" positiondatatype="1" pos="-541,43,518" />
+      <position id="-324311994" positiondatatype="2" pos="192,32,-244" />
+      <position id="-324311994" positiondatatype="0" pos="-667,36,175" />
+    </questpositions>
+  </player>
+</persistentplayerdata>
